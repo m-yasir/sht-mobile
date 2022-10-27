@@ -2,7 +2,7 @@
 
 Finally starting a project I find myself needing often. After using a couple of others, I think I need something simpler and less distracting. 
 
-In simple terms, An app I am building because I am tired of all the paid ones, that do more than what I need.
+In simple terms, an app I am building because I am tired of all the paid ones, that do more than what I need.
 
 # Why React Native?
 
