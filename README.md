@@ -4,7 +4,7 @@ Finally starting a project I find myself needing often. After using a couple of 
 
 In simple terms, an app I am building because I am tired of all the paid ones, that do more than what I need.
 
-## Designs
+## UI/UX [WIP]
 
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/36787866/200117794-f825e2fb-528f-45bc-95c2-09a28f5d9fba.png">
 
