@@ -13,7 +13,7 @@ In simple terms, an app I am building because I am tired of all the paid ones, t
 - I am a Full Stack Javascript Developer that uses React in his day job.
 - Comfortable with Javascript tools, and... nuances.
 - Have a (positive) professional experience working with React Native in the past.
-- Cross Platform. I'll currently only be using and optimising for iOS though.
+- Cross Platform.
 
 ## Planned Features
 
