@@ -1,0 +1,11 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "atoms/*": ["components/atoms/*"],
+      "molecules/*": ["components/molecules/*"],
+    },
+    "types": ["react-native", "jest", "node", "@testing-library/jest-native"]
+  }
+}
