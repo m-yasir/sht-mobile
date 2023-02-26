@@ -9,8 +9,7 @@
     "web": "expo start --web",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --silent --coverage",
-    "lint": "eslint ."
+    "test:coverage": "jest --silent --coverage"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.5",
